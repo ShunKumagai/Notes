@@ -1,2 +1,2 @@
 # Notes
-Notes on survey
+Notes on math survey
