@@ -1,5 +1,5 @@
 # Notes
-Notes on math survey.  
+PDF Notes on math survey.  
 These notes are used on my 1 hour talks on individual seminar (weekly, online) of Sugawa laboratory in Tohoku University.
 
 # Author
