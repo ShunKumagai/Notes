@@ -1,9 +1,9 @@
 # Notes
 Notes on math survey
-These notes are used on my 1 hour talks on individual seminar of Sugawa laboratory (weekly, online).
+These notes are used on my 1 hour talks on individual seminar (weekly, online) of Sugawa laboratory in Tohoku University.
 
 # Author
-Author(s) of the original article are shown in the top of each notes. 
+Author(s) of the original article are shown at the top of each note. 
 
  Shun Kumagai  
  -Research Center for Pure and Applied Mathematics, 
