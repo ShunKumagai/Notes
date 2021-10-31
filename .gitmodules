@@ -1,6 +1,0 @@
-[submodule "Notes_open"]
-	path = Notes_open
-	url = https://github.com/ShunKumagai/Notes_open.git
-[submodule "Notes_closed"]
-	path = Notes_closed
-	url = https://github.com/ShunKumagai/Notes_closed.git
