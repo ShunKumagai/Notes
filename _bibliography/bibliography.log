@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2020.4.23)  31 OCT 2021 12:21
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2020.4.23)  31 OCT 2021 12:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -126,7 +126,11 @@ File: l3backend-dvips.def 2020-03-12 L3 backend support: dvips
 \g__pdf_backend_link_int=\count188
 \g__pdf_backend_link_sf_int=\count189
 )
-(./bibliography.aux)
+(./bibliography.aux
+
+LaTeX Warning: Label `ASC' multiply defined.
+
+)
 \openout1 = `bibliography.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -155,29 +159,40 @@ LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <14.4> not available
 (Font)              Font shape `JY1/mc/bx/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 14.
- [1
+
+Underfull \hbox (badness 3690) in paragraph at lines 16--19
+[]\OT1/cmr/m/n/10 Joshua P. Bow-man:  Te-ichm^^?uller Geodesics, De-lau-nay Tri
+-an-
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 16--19
+\OT1/cmr/m/n/10 gu-la-tions, and Veech Groups.  https://citeseerx.ist.psu.edu/v
+iewdoc/
+ []
+
+[1
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
 
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
 
- (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <10> not available
-(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 24.
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 24.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <10> not available
-(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 24.
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 24.
-LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 31.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 29.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 36.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
@@ -193,11 +208,11 @@ LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 66.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 72.
+(Font)              No change on input line 71.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 77.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 86.
+(Font)              No change on input line 82.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 91.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
@@ -208,10 +223,12 @@ LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 106.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
 (Font)              No change on input line 111.
- [2]
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 116.
+ [2] [3]
 (./bibliography.aux)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
@@ -221,6 +238,6 @@ Here is how much of TeX's memory you used:
  17985 multiletter control sequences out of 15000+600000
  540093 words of font info for 57 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 30i,4n,31p,217b,258s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,4n,31p,217b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on bibliography.dvi (2 pages, 4272 bytes).
+Output written on bibliography.dvi (3 pages, 4636 bytes).
