@@ -1,5 +1,5 @@
 # Original paper
- Herrlich, F.,  Schmith\"usen, G.:
+ Herrlich, F.,  Schmith\"usen, G.:  
 A comb of origami curves in $M_3$.  
 arXiv:2011.02668 (2020)
 
