@@ -1,6 +1,7 @@
 # Notes
 PDF Notes on math survey.  
-These notes were referred to my 1-hour talks on the individual weekly seminar (every Monday, online) of Sugawa laboratory in Tohoku University.
+These notes were referred to my 1-hour talks on the individual weekly seminar (every Monday, online) of Sugawa laboratory in Tohoku University.   
+Schedules: https://www.math.is.tohoku.ac.jp/~sugawa/schedule.html 
 
 # Author
 The author(s) of the original article is shown at README.md and pdf for each note. 
